@@ -11,3 +11,15 @@ C:\Users\gtasa\source\repos\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventu
 C:\Users\gtasa\source\repos\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.pdb
 C:\Users\gtasa\source\repos\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.SuperAdventure.resources
 C:\Users\gtasa\source\repos\SuperAdventure\SuperAdventure\bin\Debug\MySql.Data.dll
+C:\Users\gtasa\OneDrive\Dokumentumok\GitHub\SuperAdventure\SuperAdventure\bin\Debug\SuperAdventure.exe.config
+C:\Users\gtasa\OneDrive\Dokumentumok\GitHub\SuperAdventure\SuperAdventure\bin\Debug\SuperAdventure.exe
+C:\Users\gtasa\OneDrive\Dokumentumok\GitHub\SuperAdventure\SuperAdventure\bin\Debug\SuperAdventure.pdb
+C:\Users\gtasa\OneDrive\Dokumentumok\GitHub\SuperAdventure\SuperAdventure\bin\Debug\Engine.dll
+C:\Users\gtasa\OneDrive\Dokumentumok\GitHub\SuperAdventure\SuperAdventure\bin\Debug\MySql.Data.dll
+C:\Users\gtasa\OneDrive\Dokumentumok\GitHub\SuperAdventure\SuperAdventure\bin\Debug\Engine.pdb
+C:\Users\gtasa\OneDrive\Dokumentumok\GitHub\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.csprojResolveAssemblyReference.cache
+C:\Users\gtasa\OneDrive\Dokumentumok\GitHub\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.Properties.Resources.resources
+C:\Users\gtasa\OneDrive\Dokumentumok\GitHub\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.SuperAdventure.resources
+C:\Users\gtasa\OneDrive\Dokumentumok\GitHub\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.csproj.GenerateResource.Cache
+C:\Users\gtasa\OneDrive\Dokumentumok\GitHub\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.exe
+C:\Users\gtasa\OneDrive\Dokumentumok\GitHub\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.pdb

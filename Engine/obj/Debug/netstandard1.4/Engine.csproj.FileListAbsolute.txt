@@ -6,3 +6,10 @@ C:\Users\gtasa\source\repos\SuperAdventure\Engine\obj\Debug\netstandard1.4\Engin
 C:\Users\gtasa\source\repos\SuperAdventure\Engine\obj\Debug\netstandard1.4\Engine.AssemblyInfo.cs
 C:\Users\gtasa\source\repos\SuperAdventure\Engine\obj\Debug\netstandard1.4\Engine.dll
 C:\Users\gtasa\source\repos\SuperAdventure\Engine\obj\Debug\netstandard1.4\Engine.pdb
+C:\Users\gtasa\OneDrive\Dokumentumok\GitHub\SuperAdventure\Engine\bin\Debug\netstandard1.4\Engine.deps.json
+C:\Users\gtasa\OneDrive\Dokumentumok\GitHub\SuperAdventure\Engine\bin\Debug\netstandard1.4\Engine.dll
+C:\Users\gtasa\OneDrive\Dokumentumok\GitHub\SuperAdventure\Engine\bin\Debug\netstandard1.4\Engine.pdb
+C:\Users\gtasa\OneDrive\Dokumentumok\GitHub\SuperAdventure\Engine\obj\Debug\netstandard1.4\Engine.csprojResolveAssemblyReference.cache
+C:\Users\gtasa\OneDrive\Dokumentumok\GitHub\SuperAdventure\Engine\obj\Debug\netstandard1.4\Engine.AssemblyInfo.cs
+C:\Users\gtasa\OneDrive\Dokumentumok\GitHub\SuperAdventure\Engine\obj\Debug\netstandard1.4\Engine.dll
+C:\Users\gtasa\OneDrive\Dokumentumok\GitHub\SuperAdventure\Engine\obj\Debug\netstandard1.4\Engine.pdb
